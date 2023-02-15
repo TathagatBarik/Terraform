@@ -1,10 +1,6 @@
 Terraform
 ====================================
 
-C:\Users\tatha\Downloads\Terraform
---------------------------------------
-Dir -- E:\terraform
-
 ## Terraform Code Blocks
 
 1. Provider
